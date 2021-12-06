@@ -1,0 +1,21 @@
+{
+    "name": "project",
+    "description": "project",
+    "version": "0.0.1",
+    "dependencies": {
+        "cookie-session": "latest",
+        "cors": "",
+        "ejs": "",
+        "express": "",
+        "express-formidable": "^2.0.1",
+        "mongodb": "^4.1.3",
+        "node-fetch": ""
+    },
+    "engines": {
+        "node": ">=8.0.0",
+        "npm": ">=6.0.0"
+    },
+    "scripts": {
+        "start": "nodemon server.js"
+    }
+}
